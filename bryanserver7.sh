@@ -175,6 +175,10 @@ echo "unset HISTFILE" >> /etc/profile
 # information
 clear
 echo "Autoscript Include:" | tee log-install.txt
+echo "#############################################"
+echo "#         Author BY :                       #"
+echo "#                     Nugroho a.k.a ./Bryan #" 
+echo "#############################################"
 echo "===========================================" | tee -a log-install.txt
 echo " Silahkan Ketik /List Untuk Menampilkan Semua Informasi Bash Yang Bisa Di Gunakan"
 echo " Terimakasih, Jangan Lupa Kunjungi www.solocyberarmy.net"
