@@ -3,7 +3,6 @@ date_default_timezone_set("Asia/Bangkok");
 error_reporting(0);
 echo"####################\n";
 "\e[36m";
-echo"SUBSCRIBE YT AW 2000\n";
 
 
 
